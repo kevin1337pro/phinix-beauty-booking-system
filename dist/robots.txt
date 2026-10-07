@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phinix-beauty-booking.kevin1337pro.chatgpt.site/sitemap.xml
